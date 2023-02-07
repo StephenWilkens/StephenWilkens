@@ -19,9 +19,9 @@
 </div>
 <div align="center">
 
-   <img width="66%" src="https://github-readme-stats.vercel.app/api?username=stephenwilkens&show_icons=true&theme=tokyonight" alt="Stephen Wilkens | Stats" />
+   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=stephenwilkens&show_icons=true&theme=tokyonight" alt="Stephen Wilkens | Stats" />
 
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwilkens&theme=tokyonight" /> 
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwilkens&theme=tokyonight" /> 
 
   ***
   
