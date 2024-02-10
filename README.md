@@ -19,7 +19,7 @@
    <a href="https://nodejs.org/en" rel="nofollow">![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=000000&logo=Node.js&logoColor=FFFFFF&label=)</a>
    <a href="https://react.dev/" rel="nofollow">![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=000000&logo=React&logoColor=61DAFB&label=)</a>
    <a href="https://tailwindcss.com" rel="nofollow">![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=000000&logo=Tailwind+CSS&logoColor=06B6D4&label=)</a>
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=000000&logo=Ruby&logoColor=FFFFFF&label=)
   ![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=000000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
   ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=000000&logo=PostgreSQL&logoColor=FFFFFF&label=)
   ![Google](https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=000000&logo=Google&logoColor=FFFFFF&label=)
