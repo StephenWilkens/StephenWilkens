@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hi there! 
+## Welcome! 
 
-#### I'm Stephen Wilkens, a software developer living in New Jersey. I'm currently building a website for a local multi-business building and looking for full-time development work. Feel free to browse some of my repositories below and please reach out if you would like to collaborate! 
+#### I'm Stephen Wilkens, a software developer living in New Jersey. I come from a background in the fast-paced and dynamic food service industry and am now seeking a fulfilling career in software development. After learning Ruby on Rails and completing the Back-End Engineering program at The Turing School of Software and Design, I turned my sights to learning Javascript and Front-End Development to round out my experience. Most recently I worked as a Web Developer, building both a website and an online store for a local business(repository below). I'm currently on the hunt for a full-time role in software development, ideally in ruby, javascript, or typescript. I would especially love to work at a company with a tight-knit team where I can grow and make an impact quickly. If you're hiring, let's chat!
 
 <a href="https://www.linkedin.com/in/stephen-wilkens"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:stephenwilkens@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ***
